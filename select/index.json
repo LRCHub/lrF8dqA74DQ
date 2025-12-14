@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "End of Days",
+  "base_artist": "ReoNa",
+  "createdAt": "2025-12-14T05:17:32.094155Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "End of Days",
+      "artist": "Before the Dawn",
+      "has_synced": true,
+      "path": "select/01_End_of_Days_Before_the_Dawn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "End of Days (Pt. 1)",
+      "artist": "Ministry",
+      "has_synced": false,
+      "path": "select/02_End_of_Days_(Pt._1)_Ministry.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "End Of Days Part 1 (One Less Sparrow Mix)",
+      "artist": "Ministry",
+      "has_synced": false,
+      "path": "select/03_End_Of_Days_Part_1_(One_Less_Sparrow_Mix)_Ministry.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "End of Days",
+      "artist": "Bullet for My Valentine",
+      "has_synced": false,
+      "path": "select/04_End_of_Days_Bullet_for_My_Valentine.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "End Of Days",
+      "artist": "Bullet for My Valentine",
+      "has_synced": true,
+      "path": "select/05_End_Of_Days_Bullet_for_My_Valentine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Bring the Darkness (End of Days) (Baron Corbin) [feat. Tommy Vext]",
+      "artist": "WWE feat. Jim Johnston & Tommy Vext",
+      "has_synced": true,
+      "path": "select/06_I_Bring_the_Darkness_(End_of_Days)_(Baron_Corbin)_[feat._Tommy_Vext]_WWE_feat._Jim_Johnston_&_Tommy_Vext.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Bring the Darkness (End of Days) (Baron Corbin) [feat. Tommy Vext]",
+      "artist": "Jim Johnston, Tommy Vext",
+      "has_synced": true,
+      "path": "select/07_I_Bring_the_Darkness_(End_of_Days)_(Baron_Corbin)_[feat._Tommy_Vext]_Jim_Johnston,_Tommy_Vext.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "End of Days",
+      "artist": "Dropbox",
+      "has_synced": true,
+      "path": "select/08_End_of_Days_Dropbox.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "End of Days",
+      "artist": "Black Label Society",
+      "has_synced": true,
+      "path": "select/09_End_of_Days_Black_Label_Society.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "End Of Days",
+      "artist": "Nocturnal Rites",
+      "has_synced": true,
+      "path": "select/10_End_Of_Days_Nocturnal_Rites.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "End Of Days",
+      "artist": "Ra",
+      "has_synced": false,
+      "path": "select/11_End_Of_Days_Ra.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "End of Days",
+      "artist": "At Vance",
+      "has_synced": false,
+      "path": "select/12_End_of_Days_At_Vance.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "End of Days",
+      "artist": "Blacktop Mojo",
+      "has_synced": false,
+      "path": "select/13_End_of_Days_Blacktop_Mojo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "End of Days",
+      "artist": "Fozzy",
+      "has_synced": false,
+      "path": "select/14_End_of_Days_Fozzy.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "End of Days (I've Had Enough) [The Corre]",
+      "artist": "Jim Johnston",
+      "has_synced": false,
+      "path": "select/15_End_of_Days_(I've_Had_Enough)_[The_Corre]_Jim_Johnston.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "End of Days (I've Had Enough) [The Corre]",
+      "artist": "WWE, Jim Johnston, Emphatic",
+      "has_synced": false,
+      "path": "select/16_End_of_Days_(I've_Had_Enough)_[The_Corre]_WWE,_Jim_Johnston,_Emphatic.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "WWE: I Bring the Darkness (End of Days) (Baron Corbin)",
+      "artist": "Jim Johnston feat. Tommy Vext",
+      "has_synced": true,
+      "path": "select/17_WWE__I_Bring_the_Darkness_(End_of_Days)_(Baron_Corbin)_Jim_Johnston_feat._Tommy_Vext.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "End of Days",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_End_of_Days_ReoNa.txt"
+    }
+  ]
+}
